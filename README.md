@@ -3,27 +3,27 @@ A simple and user-friendly Python command-line application for local shelters to
 
 Features:
 
-Register donations with donor name, type, quantity, and date.
+1.Register donations with donor name, type, quantity, and date.
 
-Log distributed donations to track outflow.
+2.Log distributed donations to track outflow.
 
-Generate inventory reports showing current stock by donation type.
+3.Generate inventory reports showing current stock by donation type.
 
-Generate donor reports summarizing total contributions per donor.
+4.Generate donor reports summarizing total contributions per donor.
 
-Interactive command-line interface for easy operation.
+5.Interactive command-line interface for easy operation.
 
-Default date handling and case-insensitive donation types.
+6.Default date handling and case-insensitive donation types.
 
 Usage:
 
-Ensure Python 3.8+ is installed.
+1.Ensure Python 3.8+ is installed.
 
-Clone the repository.
+2.Clone the repository.
 
-Run the script:
+3.Run the script:
 
 python donation_manager.py
 
 
-Follow the interactive menu to manage donations and generate reports.
+4.Follow the interactive menu to manage donations and generate reports.
